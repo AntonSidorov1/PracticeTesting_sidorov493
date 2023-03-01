@@ -8,13 +8,14 @@ namespace WSUniversalLib
 {
     public class Calculation
     {
-        public int GetQuantityForProduct(int productType, int materialType, int count, float width, float length)
+        public static int GetQuantityForProduct(float productType, float materialType, int count, float width, float length)
         {
             float materialCount = productType * width * length;
             materialCount *= count;
             materialCount += (materialCount * materialType);
             float materialCount1 = (float)Math.Round(materialCount);
-            materialCount1 = materialCount1 >= materialCount ? materialCount1 : materialCount1 + 1;
+            //materialCount = (float)Math.Round(materialCount, MidpointRounding.AwayFromZero);
+            materialCount = materialCount1 >= materialCount ? materialCount1 : materialCount1 + 1;
 
             return (int)materialCount;
         }
