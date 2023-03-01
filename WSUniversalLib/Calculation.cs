@@ -16,7 +16,7 @@ namespace WSUniversalLib
             float materialCount1 = (float)Math.Round(materialCount);
             materialCount1 = materialCount1 >= materialCount ? materialCount1 : materialCount1 + 1;
 
-            return materialCount;
+            return (int)materialCount;
         }
     }
 }
