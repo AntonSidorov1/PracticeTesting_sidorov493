@@ -1,8 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WSUniversalLib;
 
-namespace CalculationUnitTests
+namespace CalculationTests
 {
     [TestClass]
     public class UnitTest1
