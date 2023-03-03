@@ -10,3 +10,9 @@ C:\Users\stud\Downloads\WSUniversalLib-20230301T101741Z-001\WSUniversalLib\WSUni
 C:\Users\stud\Downloads\WSUniversalLib-20230301T101741Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
 C:\Users\stud\Downloads\WSUniversalLib-20230301T101741Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
 C:\Users\stud\Downloads\WSUniversalLib-20230301T101741Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+D:\Users\Anton\Downloads\WSUniversalLib-20230303T090301Z-001\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
