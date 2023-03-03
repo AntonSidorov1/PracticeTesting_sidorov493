@@ -13,6 +13,10 @@ namespace WSUniversalLib
 
         public static int GetQuantityForProduct(float productType, float materialType, int count, float width, float length)
         {
+            if(productType < 0 || materialType <0 || count < 0 || width < 0 || length < 0)
+            {
+                throw new ArgumentException();
+            }
             float materialCount = productType * width * length;
             materialCount *= count;
             materialCount += (materialCount * materialType);
